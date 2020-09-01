@@ -16,6 +16,12 @@ This is my personal firmware tree for a CR10-S5, using BigTreeTech SKR 1.3 board
 
 If you use this and have any issues, I strongly suggest you give the main branch of Marlin 2.0 a try. 
 
+## Creality CR10-S5 build
+
+This is my personal firmware tree for a CR10-S5, using BigTreeTech SKR 1.3 board with TMC2208 drivers and a BLTouch module. As such I cannot guarentee it will work on any other printers, even other CR10-S5. 
+
+If you use this and have any issues, I strongly suggest you give the main branch of Marlin 2.0 a try. 
+
 ## Marlin 2.0
 
 Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
